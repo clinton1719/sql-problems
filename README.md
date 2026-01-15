@@ -8,7 +8,7 @@
 
 ## 🏷️ Tag Cloud
 
-[`sql`](tags/sql.md) 
+[`simple`](tags/simple.md) 
 
 ---
 
@@ -16,4 +16,4 @@
 
 | # | Title | Difficulty | Tags |
 | --- | --- | --- | --- |
-| 1757 | [Recyclable and Low Fat Products](problems/p1757_recyclable-and-low-fat-products) | 🟢 Easy | [sql](tags/sql.md) |
+| 1757 | [Recyclable and Low Fat Products](problems/p1757_recyclable-and-low-fat-products) | 🟢 Easy | [simple](tags/simple.md) |
