@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 8 | 8 | 0 | 0 |
+| 9 | 9 | 0 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -16,6 +16,7 @@
 
 | # | Title | Difficulty | Tags |
 | --- | --- | --- | --- |
+| 197 | [Rising Temperature](problems/p197_rising-temperature) | 🟢 Easy | [join](tags/join.md) |
 | 584 | [Find Customer Referee](problems/p584_find-customer-referee) | 🟢 Easy | [simple](tags/simple.md), [coalesce](tags/coalesce.md) |
 | 595 | [Big Countries](problems/p595_big-countries) | 🟢 Easy | [simple](tags/simple.md) |
 | 1068 | [Product Sales Analysis I](problems/p1068_product-sales-analysis-i) | 🟢 Easy | [join](tags/join.md) |
