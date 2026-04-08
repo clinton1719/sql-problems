@@ -4,11 +4,11 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 10 | 10 | 0 | 0 |
+| 11 | 11 | 0 | 0 |
 
 ## 🏷️ Tag Cloud
 
-[`case-when`](tags/case-when.md) [`coalesce`](tags/coalesce.md) [`distinct`](tags/distinct.md) [`group-by`](tags/group-by.md) [`join`](tags/join.md) [`length`](tags/length.md) [`simple`](tags/simple.md) 
+[`case-when`](tags/case-when.md) [`coalesce`](tags/coalesce.md) [`distinct`](tags/distinct.md) [`group-by`](tags/group-by.md) [`join`](tags/join.md) [`length`](tags/length.md) [`outer-join`](tags/outer-join.md) [`simple`](tags/simple.md) 
 
 ---
 
@@ -17,6 +17,7 @@
 | # | Title | Difficulty | Tags |
 | --- | --- | --- | --- |
 | 197 | [Rising Temperature](problems/p197_rising-temperature) | 🟢 Easy | [join](tags/join.md) |
+| 577 | [Employee Bonus](problems/p577_employee_bonus) | 🟢 Easy | [join](tags/join.md), [outer-join](tags/outer-join.md) |
 | 584 | [Find Customer Referee](problems/p584_find-customer-referee) | 🟢 Easy | [simple](tags/simple.md), [coalesce](tags/coalesce.md) |
 | 595 | [Big Countries](problems/p595_big-countries) | 🟢 Easy | [simple](tags/simple.md) |
 | 1068 | [Product Sales Analysis I](problems/p1068_product-sales-analysis-i) | 🟢 Easy | [join](tags/join.md) |
