@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 12 | 12 | 0 | 0 |
+| 13 | 13 | 0 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -20,6 +20,7 @@
 | 577 | [Employee Bonus](problems/p577_employee_bonus) | 🟢 Easy | [join](tags/join.md), [outer-join](tags/outer-join.md) |
 | 584 | [Find Customer Referee](problems/p584_find-customer-referee) | 🟢 Easy | [simple](tags/simple.md), [coalesce](tags/coalesce.md) |
 | 595 | [Big Countries](problems/p595_big-countries) | 🟢 Easy | [simple](tags/simple.md) |
+| 620 | [Not Boring Movies](problems/p620_not-boring-movies) | 🟢 Easy | [simple](tags/simple.md) |
 | 1068 | [Product Sales Analysis I](problems/p1068_product-sales-analysis-i) | 🟢 Easy | [join](tags/join.md) |
 | 1148 | [Article Views I](problems/p1148_article-views-i) | 🟢 Easy | [simple](tags/simple.md), [distinct](tags/distinct.md) |
 | 1378 | [Replace Employee ID With The Unique Identifier](problems/p1378_replace-employee-id-with-the-unique-identifier) | 🟢 Easy | [join](tags/join.md) |
