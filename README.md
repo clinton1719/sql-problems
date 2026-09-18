@@ -4,11 +4,11 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 13 | 13 | 0 | 0 |
+| 14 | 14 | 0 | 0 |
 
 ## 🏷️ Tag Cloud
 
-[`case-when`](tags/case-when.md) [`coalesce`](tags/coalesce.md) [`cross-join`](tags/cross-join.md) [`distinct`](tags/distinct.md) [`group-by`](tags/group-by.md) [`join`](tags/join.md) [`length`](tags/length.md) [`outer-join`](tags/outer-join.md) [`simple`](tags/simple.md) 
+[`case-when`](tags/case-when.md) [`coalesce`](tags/coalesce.md) [`cross-join`](tags/cross-join.md) [`distinct`](tags/distinct.md) [`group-by`](tags/group-by.md) [`join`](tags/join.md) [`length`](tags/length.md) [`nullif`](tags/nullif.md) [`numeric`](tags/numeric.md) [`outer-join`](tags/outer-join.md) [`simple`](tags/simple.md) 
 
 ---
 
@@ -23,6 +23,7 @@
 | 620 | [Not Boring Movies](problems/p620_not-boring-movies) | 🟢 Easy | [simple](tags/simple.md) |
 | 1068 | [Product Sales Analysis I](problems/p1068_product-sales-analysis-i) | 🟢 Easy | [join](tags/join.md) |
 | 1148 | [Article Views I](problems/p1148_article-views-i) | 🟢 Easy | [simple](tags/simple.md), [distinct](tags/distinct.md) |
+| 1251 | [Average Selling Price](problems/p1251_average-selling-price) | 🟢 Easy | [group-by](tags/group-by.md), [coalesce](tags/coalesce.md), [nullif](tags/nullif.md), [numeric](tags/numeric.md) |
 | 1378 | [Replace Employee ID With The Unique Identifier](problems/p1378_replace-employee-id-with-the-unique-identifier) | 🟢 Easy | [join](tags/join.md) |
 | 1378 | [Replace Employee ID With The Unique Identifier](problems/p1280_students-and-examinations) | 🟢 Easy | [join](tags/join.md), [cross-join](tags/cross-join.md) |
 | 1581 | [Average Time Of Process Per Machine](problems/p1661_average-time-of-process-per-machine) | 🟢 Easy | [join](tags/join.md), [case-when](tags/case-when.md) |
