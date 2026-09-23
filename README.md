@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 14 | 14 | 0 | 0 |
+| 15 | 15 | 0 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -22,11 +22,12 @@
 | 595 | [Big Countries](problems/p595_big-countries) | 🟢 Easy | [simple](tags/simple.md) |
 | 620 | [Not Boring Movies](problems/p620_not-boring-movies) | 🟢 Easy | [simple](tags/simple.md) |
 | 1068 | [Product Sales Analysis I](problems/p1068_product-sales-analysis-i) | 🟢 Easy | [join](tags/join.md) |
+| 1075 | [Project Employees I](problems/p1075_project-employees-i) | 🟢 Easy |  |
 | 1148 | [Article Views I](problems/p1148_article-views-i) | 🟢 Easy | [simple](tags/simple.md), [distinct](tags/distinct.md) |
 | 1251 | [Average Selling Price](problems/p1251_average-selling-price) | 🟢 Easy | [group-by](tags/group-by.md), [coalesce](tags/coalesce.md), [nullif](tags/nullif.md), [numeric](tags/numeric.md) |
-| 1378 | [Replace Employee ID With The Unique Identifier](problems/p1378_replace-employee-id-with-the-unique-identifier) | 🟢 Easy | [join](tags/join.md) |
 | 1378 | [Replace Employee ID With The Unique Identifier](problems/p1280_students-and-examinations) | 🟢 Easy | [join](tags/join.md), [cross-join](tags/cross-join.md) |
-| 1581 | [Average Time Of Process Per Machine](problems/p1661_average-time-of-process-per-machine) | 🟢 Easy | [join](tags/join.md), [case-when](tags/case-when.md) |
+| 1378 | [Replace Employee ID With The Unique Identifier](problems/p1378_replace-employee-id-with-the-unique-identifier) | 🟢 Easy | [join](tags/join.md) |
 | 1581 | [Customer Who Visited But Did Not Make Any Transactions](problems/p1581_customer-who-visited-but-did-not-make-any-transactions) | 🟢 Easy | [join](tags/join.md), [group-by](tags/group-by.md) |
+| 1581 | [Average Time Of Process Per Machine](problems/p1661_average-time-of-process-per-machine) | 🟢 Easy | [join](tags/join.md), [case-when](tags/case-when.md) |
 | 1683 | [Invalid Tweets](problems/p1683_invalid-tweets) | 🟢 Easy | [simple](tags/simple.md), [length](tags/length.md) |
 | 1757 | [Recyclable and Low Fat Products](problems/p1757_recyclable-and-low-fat-products) | 🟢 Easy | [simple](tags/simple.md) |
