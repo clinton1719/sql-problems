@@ -4,11 +4,11 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 16 | 16 | 0 | 0 |
+| 17 | 17 | 0 | 0 |
 
 ## 🏷️ Tag Cloud
 
-[`case-when`](tags/case-when.md) [`coalesce`](tags/coalesce.md) [`cross-join`](tags/cross-join.md) [`distinct`](tags/distinct.md) [`group-by`](tags/group-by.md) [`join`](tags/join.md) [`length`](tags/length.md) [`nullif`](tags/nullif.md) [`numeric`](tags/numeric.md) [`outer-join`](tags/outer-join.md) [`simple`](tags/simple.md) 
+[`COUNT`](tags/COUNT.md) [`case-when`](tags/case-when.md) [`coalesce`](tags/coalesce.md) [`cross-join`](tags/cross-join.md) [`distinct`](tags/distinct.md) [`group-by`](tags/group-by.md) [`integer-division`](tags/integer-division.md) [`join`](tags/join.md) [`length`](tags/length.md) [`nullif`](tags/nullif.md) [`numeric`](tags/numeric.md) [`outer-join`](tags/outer-join.md) [`percentage`](tags/percentage.md) [`simple`](tags/simple.md) 
 
 ---
 
@@ -24,11 +24,12 @@
 | 1068 | [Product Sales Analysis I](problems/p1068_product-sales-analysis-i) | 🟢 Easy | [join](tags/join.md) |
 | 1075 | [Project Employees I](problems/p1075_project-employees-i) | 🟢 Easy |  |
 | 1148 | [Article Views I](problems/p1148_article-views-i) | 🟢 Easy | [simple](tags/simple.md), [distinct](tags/distinct.md) |
+| 1211 | [Queries Quality and Percentage](problems/p1211_queries-quality-and-percentage) | 🟢 Easy | [COUNT](tags/COUNT.md), [percentage](tags/percentage.md), [case-when](tags/case-when.md) |
 | 1251 | [Average Selling Price](problems/p1251_average-selling-price) | 🟢 Easy | [group-by](tags/group-by.md), [coalesce](tags/coalesce.md), [nullif](tags/nullif.md), [numeric](tags/numeric.md) |
 | 1378 | [Replace Employee ID With The Unique Identifier](problems/p1378_replace-employee-id-with-the-unique-identifier) | 🟢 Easy | [join](tags/join.md) |
 | 1378 | [Replace Employee ID With The Unique Identifier](problems/p1280_students-and-examinations) | 🟢 Easy | [join](tags/join.md), [cross-join](tags/cross-join.md) |
 | 1581 | [Customer Who Visited But Did Not Make Any Transactions](problems/p1581_customer-who-visited-but-did-not-make-any-transactions) | 🟢 Easy | [join](tags/join.md), [group-by](tags/group-by.md) |
 | 1581 | [Average Time Of Process Per Machine](problems/p1661_average-time-of-process-per-machine) | 🟢 Easy | [join](tags/join.md), [case-when](tags/case-when.md) |
-| 1633 | [Percentage of Users Attended a Contest](problems/p1633_percentage-of-users-attended-a-contest) | 🟢 Easy |  |
+| 1633 | [Percentage of Users Attended a Contest](problems/p1633_percentage-of-users-attended-a-contest) | 🟢 Easy | [integer-division](tags/integer-division.md), [percentage](tags/percentage.md) |
 | 1683 | [Invalid Tweets](problems/p1683_invalid-tweets) | 🟢 Easy | [simple](tags/simple.md), [length](tags/length.md) |
 | 1757 | [Recyclable and Low Fat Products](problems/p1757_recyclable-and-low-fat-products) | 🟢 Easy | [simple](tags/simple.md) |
