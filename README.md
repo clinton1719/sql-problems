@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 17 | 17 | 0 | 0 |
+| 18 | 18 | 0 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -33,3 +33,4 @@
 | 1633 | [Percentage of Users Attended a Contest](problems/p1633_percentage-of-users-attended-a-contest) | 🟢 Easy | [integer-division](tags/integer-division.md), [percentage](tags/percentage.md) |
 | 1683 | [Invalid Tweets](problems/p1683_invalid-tweets) | 🟢 Easy | [simple](tags/simple.md), [length](tags/length.md) |
 | 1757 | [Recyclable and Low Fat Products](problems/p1757_recyclable-and-low-fat-products) | 🟢 Easy | [simple](tags/simple.md) |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](problems/p2356_number-of-unique-subjects-taught-by-each-teacher) | 🟢 Easy |  |
